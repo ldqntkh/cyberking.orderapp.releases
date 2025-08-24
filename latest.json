@@ -1,11 +1,11 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "notes": "Fix some bugs & perf improvements",
-    "pub_date": "2025-08-18T02:00:00Z",
+    "pub_date": "2025-08-24",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eENVVU9ndmludm5md2tRZHJBZElDYnJ1Rld0Z0YzeTJXZ1gxQzdoVXZ2d3BNK3lZSTN4MjZCemduWWIyQjF5RW5Ha1lXQUZkYzBuNExYUTUrWW4vbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MDUxNzUyCWZpbGU6Q3liZXJLaW5nIE9yZGVyXzAuMS4xX3g2NF9lbi1VUy5tc2kKd2JneGc2dS9iN2czODY0MXZoQVBQeVdHSm9ua1ZYSGNxOEJiTkxGZS9uak9mQmdrRzMyN2pVdFAreXlBc2kzbUwwVVpsMTd1VWNSSy84amlyM2hCQ3c9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.1.1/CyberKing Order_0.1.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eExLWkhnMktkaFp3dVFQTVo4TGNqSSsxTjJscXFnTlRoR3ROVEpOM1ArYTJ5dmh6cUxyWW9jMGROcUw0ZUdYMlJTOVlwR1VmVlVtVFdkNGdZZ1pwandVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MDUyNTU5CWZpbGU6Q3liZXJLaW5nIE9yZGVyXzAuMS4yX3g2NF9lbi1VUy5tc2kKMGsyU1hUb21UQ1NVZjN4dGZ2TElDNUp4bUJVYzFqeFdkbzJibmVwK3F0eXVySVl3ZDlHR0VkK3RRTmlZVGZJMi94YVZsQnozNDRPV09OcitCcW45RFE9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.1.2/CyberKing Order_0.1.2_x64_en-US.msi"
         }
     }
 }
