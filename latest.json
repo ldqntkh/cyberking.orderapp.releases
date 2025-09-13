@@ -3,7 +3,7 @@
     "notes": "Fixed some bugs and improved performance.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEo2TE5xMnlyYTdxTVJWb0c2UWNnd3JnZERRSjcyVVZScjFEaHJOSFNRWjFKQ01DSTd2bG83c1Uram5oY01nNm80czJhZEowNnFIT2dTQjNrb0lJMndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Nzc5NDgyCWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMS42X3g2NF9lbi1VUy5tc2kKYmQxdVVBRUhjRHdhcCtOYVBJbFFxNzM1MWFsb1ZZMGpSZW5CSGVVN0FXbncwUGNiTFFUSGZmbzdGSnF4SjQ1MUlYZFpvNDJhVHBFRXpmT3hZWENXQXc9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eE45c2hvYmVSalJUTUxZYmdIWEZDMHRDZmhkcUc5cGttYlpzN25sYkVjYVlnZlpySEdtaDMzRDNMTk5hSWpHL3NPeEFWbFgzOWF6MzZkV2tFNlAzR3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NzgxNDQyCWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMS42X3g2NF9lbi1VUy5tc2kKUzJQOHQrcTJub0dlYllFeUozek9wWCtZUUdpM3JqOUFoK2hXZ0kxQUdhY2xaeTV0Y0tjYXhZcmdNTit2Yk1vZjhraXJoUjF4bkg4S3l6RExvaGpVQ2c9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.1.6/CyberKing_Order_0.1.6_x64_en-US.msi"
         }
     }
