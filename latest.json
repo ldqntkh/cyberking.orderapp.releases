@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "notes": "New feature combo",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eE12RVAvRi9XTDFqMTNESS93OHBpZnhtT3NPenJwWEt5NlpwMzBLV3F3K05wdU44L1B6cDc1Z1c1alpPcE9DTnpYUFdKZHpPMzQvT0VHWmIxZk5ubGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNzQwMjM0CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMi4zX3g2NF9lbi1VUy5tc2kKTDZ1UmNzSkFXWVMwWnhRR0ltdVdjQW16UDRiVE03a1pQQmNRalI1dFZnc3c3bDBTK2VTMGhHKy9ROVk1SityUFNTOER4cFJicVo0b014RUFaNkJ1RGc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.2.3/CyberKing_Order_0.2.3_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eExzYVJsc2pDZ0NuMVBSUGJTUFExTW1MTUg1RWo3WitZOGZHRlBHKzJjaHJXMUs2R0pOZFV2MjBwYWkvM2szTnZpUy9zR3ZJNm5weCs5aksweHFKUWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MzQ2MDY5CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMi40X3g2NF9lbi1VUy5tc2kKb3RyYlJMUElPemEvdkNWTG1CRzNOZzVMMjlIVS9kK3hTblFPZThkaU0rRHlLRTNRTHNJVG5sY1VZUG9lWTFQSzMvUU1rVlhWTFhlNm4wSFBES1F3REE9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.2.4/CyberKing_Order_0.2.4_x64_en-US.msi"
         }
     }
 }
