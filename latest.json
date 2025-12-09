@@ -1,10 +1,10 @@
 {
-    "version": "0.2.6",
-    "notes": "Fixed minor bugs and improved performance.",
+    "version": "0.2.7",
+    "notes": "Update Momo payment gateway",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEN6ZGV5ZnpoYmhsNGhiaHBwT3NYS21sejVQL2FGUUR4c3k1TVRNZUlkOG4rTUhqSmJ5THNZREVRMXp5aXZNTVlkdUZLRWFHQnJBeDB5Ymw2ZUE5NkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjA4NTk4CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMi42X3g2NF9lbi1VUy5tc2kKZGVNb0d3V2RtelFnRGZHbURhUE1Fay8xU1VBT0FMZEF3ZVVRRW84ZkZsV2ZtU0psbWR0QTZxYUZueG53cHoweXBLNVZqK3FORG9ENDg5WVdCNHBkQnc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.2.6/CyberKing_Order_0.2.6_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEJWK0djV05mUzlYTWxWMUVhNmMybnFGbEJWQVhmd3U0K0ZsVW1UOXVNZndZNzdnWUZNK3VBZlZjVmNIRW9kRUpXSE9FeURrVnVSQk9hVzY5QTc4OXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjkzMDc0CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMi43X3g2NF9lbi1VUy5tc2kKNHYraUxqOVBoR25BdGdXN0ZIa1hXR0RmK3NyNEFjcEhYYTZxT0hDOC8ySWlTeEU0WHk3Ri9jTEhHYzN5ODdHMjdmOG9oUHdvNG13UldEZWUxUlRmQ0E9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.2.7/CyberKing_Order_0.2.7_x64_en-US.msi"
         }
     }
 }
