@@ -3,7 +3,7 @@
     "notes": "Update modal payment method",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEF2Rk9wV2FTMzVTNjNOZnRONWFpNVU2VnE3eklwV2o0VFNoT1hhMy92dXhwd2R2Z3BXNkg2QjJDc1FyZGJieDdoU1VWR1liRGxlKytjVEZ4UjNteFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTM2NTQxCWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMy4yX3g2NF9lbi1VUy5tc2kKZkU2MEV0TW0rbHYrek5oMG12WndiVit0WTdKYTFZSWtkYjV0ZXBkc2w2cWtkM0ZnSUp1bnVxWU9OUUdxZHExZzFocWY5LzkwbjN4RTcya2o1V1EzQmc9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEtza0dmYlBsKzhiN2lsdzJPcHhqVUJIWVl5WWNiMXFZYmR1MnJTT0RKcGFnMjdBZjVhWUY0dk9qRmFTMU1EdzlXRFhEK3JrUHRWeExlaVl1azJBSXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI2MDc2CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMy4yX3g2NF9lbi1VUy5tc2kKTTlONFNZY0I2T2RJUlROTXNPRkVqb0RLd0orOEJBMVpZVmlZUWphYjJ4dk9VWjNCL0Nzc1JOZGgrWHlodmc1YVhsbGFwMysrTXJOa1ltaG9ValNoQ1E9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.3.2/CyberKing_Order_0.3.2_x64_en-US.msi"
         }
     }
