@@ -1,10 +1,10 @@
 {
-    "version": "0.3.2",
-    "notes": "Update modal payment method",
+    "version": "0.3.3",
+    "notes": "Fix shop cart option",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eEUramxmTDJzNlVidUFjbEFsYmRKSnhHNUQzQXpmQTZxM0p6TTBDNmQ2MnhYaVJkR2NIRDdhWlIrWUtjSENTNlRJRVpwaFNieC9zMy9KY09qYVNhT3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzE0MjEyCWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMy4yX3g2NF9lbi1VUy5tc2kKOU1xRTIyaTY3dlZVcGtqZGMxZ0llQm8rZlFCUnp5UEpvSGhTZWY0M09oOHgvOEZiZUdMdzRGUXBId1djUGVUZzRGdlJ5OGRSLzhpT2RnZUtzVGRSQ0E9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.3.2/CyberKing_Order_0.3.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWWFCRDVNb0d5eFByZTkwLzFpUnNyQjBiSEppRUdLbFlsemM2aVhGRDIrT29WaWlSL2hZYVdCUFZwcm9BN2Nrajc4QzV0YUE4eElCQzdtZHJxU2tJVUw5d3E1UU9tRmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTE1Nzg0CWZpbGU6Q3liZXJLaW5nX09yZGVyXzAuMy4zX3g2NF9lbi1VUy5tc2kKQ0VxMjBRczBOTDlVTXd2d0NoaXlXVVpDWEVZMnNzcVV4ZmFyRzFIMnRXZ240cko1VXZ4eHFSekpIRkZCK2prT2NqQ1pkLzU1bnNweXZ2QkJuWitQRHc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.orderapp.releases/releases/download/v0.3.3/CyberKing_Order_0.3.3_x64_en-US.msi"
         }
     }
 }
